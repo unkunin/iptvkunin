@@ -1,0 +1,10 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="" tvg-name="Spy Family" tvg-logo="https://i0.wp.com/www.jbox.com.br/wp/wp-content/uploads/2021/03/spy-x-family-imagem.jpg?fit=774%2C489&quality=99&strip=all&ssl=1" group-title="Animes",Spy Family
+https://fy.v.vrv.co/evs/8c06f801232cbf46d5cc602d4a449cce/assets/11f8c1aafe2754346d90041269390aa6_4742359.mp4?Expires=1664726799&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9meS52LnZydi5jby9ldnMvOGMwNmY4MDEyMzJjYmY0NmQ1Y2M2MDJkNGE0NDljY2UvYXNzZXRzLzExZjhjMWFhZmUyNzU0MzQ2ZDkwMDQxMjY5MzkwYWE2XzQ3NDIzNTkubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY0NzI2Nzk5fX19XX0=&Signature=ZE/eJipsRutp6sw5XieaIxLpoC1mGXd+L0fLMldTvaM=&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Dahmer: O Canibal Americano" tvg-logo="https://oavcrime.com.br/wp-content/uploads/2022/09/Dahmer-o-canibal-americano-realidade-ou-ficcao.jpg" group-title="Dahmer: O Canibal Americano",Dahmer: O Canibal Americano - 01
+https://google-drive4-googleusercontent-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https://linkgratis2.ml/tsfiles/BAAFFFCB/360K/2022/BBCADIFA/09/DHBCIBEG/22/FCAADDBC/49679-000.webp
+#EXTINF:-1 tvg-id="" tvg-name="Dahmer: O Canibal Americano" tvg-logo="https://oavcrime.com.br/wp-content/uploads/2022/09/Dahmer-o-canibal-americano-realidade-ou-ficcao.jpg" group-title="Dahmer: O Canibal Americano",Dahmer: O Canibal Americano - 02
+https://cdn2.temperosdavovo.com/IdekDqEo30QQwzx-OZwNo1EIhWsyOgkv3vUIEseh3KZvPHsWI2dCAhzbqZpgiSTTuEnfdDKns-tPrHCF_rlKwA/8g_1Ugb755yLJABz6HSLthVD4zUl1mqkhiG3g4f92fc/video.m3u8
